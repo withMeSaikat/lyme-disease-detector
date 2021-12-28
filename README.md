@@ -17,10 +17,11 @@ In this project, we are trying to detect lyme disease by analyzing the infection
 
 ## Dataset:
 The open source data can be downloaded from [Kaggle](https://www.kaggle.com/sshikamaru/lyme-disease-rashes).
+> After unzipping the file, place the RashData folder in the root directory.
 
-## Installation
+## How to use:
 1. Install [Anaconda](https://www.anaconda.com/)
-2. Create virtual enviorment
+2. Create virtual enviorment.
 On the anaconda prompt type-
 ```sh
 conda update conda
