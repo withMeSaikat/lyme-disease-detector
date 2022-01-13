@@ -1,2 +1,5 @@
 RashData
 .ipynb_checkpoints
+Test/*
+/.Figures
+/Intermediate_activations
